@@ -52,7 +52,7 @@ def pagina_inicial():
         st.info("Controle e registre o acesso e alterações dos projetos.")
 
     st.divider()
-    st.caption("Powered by SuaEmpresa | 2024")
+    st.caption("Powered by Okiar | 2025")
 
 # Formulário Novo Projeto
 def novo_projeto():
